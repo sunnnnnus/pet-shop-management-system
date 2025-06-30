@@ -60,8 +60,9 @@ db.properties 為私密設定，請勿上傳至 GitHub（已透過 .gitignore �
 
 以下為本系統使用之 ER Model 與關聯綱目圖，展示資料表之間的邏輯關係與欄位設計：
 
-![ER Model 圖片](![未命名繪圖](https://github.com/user-attachments/assets/572d1d12-3f27-4c35-9fda-e7d5717f88bc)
-)
+![未命名繪圖](https://github.com/user-attachments/assets/cfe8a101-c184-45c8-8d23-d1fb2a72201d)</br>
+![關聯綱目圖](https://github.com/user-attachments/assets/90aa4937-43d7-4b36-8976-1361b72778c5)</br>
+
 
 🙋‍♀️ 作者介紹
 
