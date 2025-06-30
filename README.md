@@ -56,6 +56,13 @@ db.properties 為私密設定，請勿上傳至 GitHub（已透過 .gitignore �
 <img width="701" alt="截圖 2025-06-30 下午11 14 29" src="https://github.com/user-attachments/assets/28226a37-899f-4cc6-864d-aa091b58bc40" /></br>
 <img width="699" alt="截圖 2025-06-30 下午11 15 01" src="https://github.com/user-attachments/assets/93ab0df1-04e1-495d-b5f2-59a72a039422" /></br>
 
+## 📊 系統資料庫設計
+
+以下為本系統使用之 ER Model 與關聯綱目圖，展示資料表之間的邏輯關係與欄位設計：
+
+![ER Model 圖片](![未命名繪圖](https://github.com/user-attachments/assets/572d1d12-3f27-4c35-9fda-e7d5717f88bc)
+)
+
 🙋‍♀️ 作者介紹
 
 由軟體工程系學生開發，期末專題為班上最高分。正在轉職為全端工程師的道路上努力中 💪
