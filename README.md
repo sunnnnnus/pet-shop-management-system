@@ -52,16 +52,18 @@ db.properties 為私密設定，請勿上傳至 GitHub（已透過 .gitignore �
 
 📷 預覽畫面</br>
 
-<img width="599" alt="截圖 2025-06-30 下午11 36 58" src="https://github.com/user-attachments/assets/1a72d00b-c35c-4edc-8581-b342124a0ca7" /></br>
-<img width="701" alt="截圖 2025-06-30 下午11 14 29" src="https://github.com/user-attachments/assets/28226a37-899f-4cc6-864d-aa091b58bc40" /></br>
-<img width="699" alt="截圖 2025-06-30 下午11 15 01" src="https://github.com/user-attachments/assets/93ab0df1-04e1-495d-b5f2-59a72a039422" /></br>
+<img width="600" alt="截圖 2025-06-30 下午11 36 58" src="https://github.com/user-attachments/assets/1a72d00b-c35c-4edc-8581-b342124a0ca7"/></br>
+<img width="600" alt="截圖 2025-06-30 下午11 14 29" src="https://github.com/user-attachments/assets/28226a37-899f-4cc6-864d-aa091b58bc40"/></br>
+<img width="600" alt="截圖 2025-06-30 下午11 15 01" src="https://github.com/user-attachments/assets/93ab0df1-04e1-495d-b5f2-59a72a039422"/></br>
 
 ## 📊 系統資料庫設計
+本系統共包含數個主要資料表，用以記錄商品、顧客、訂單與訂單明細，透過下方 ER Model 可快速理解資料表關聯。
 
-以下為本系統使用之 ER Model 與關聯綱目圖，展示資料表之間的邏輯關係與欄位設計：
+### 🧩 ER Model
+<img src="./image/ERModel.jpg" width="600"/></br>
 
-![未命名繪圖](https://github.com/user-attachments/assets/cfe8a101-c184-45c8-8d23-d1fb2a72201d)</br>
-![關聯綱目圖](https://github.com/user-attachments/assets/90aa4937-43d7-4b36-8976-1361b72778c5)</br>
+### 🗂️ 關聯綱目表
+<img src="./image/schema-diagram.png" width="600"/></br>
 
 
 🙋‍♀️ 作者介紹
