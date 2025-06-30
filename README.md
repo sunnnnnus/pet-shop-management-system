@@ -62,11 +62,11 @@ db.properties 為私密設定，請勿上傳至 GitHub（已透過 .gitignore �
 
 ### 🧩 ER Model
 
-<img src="images/ERModel.jpg" width="600"/></br>
+<img src="image/ERModel.jpg" width="600"/></br>
 
 ### 🗂️ 關聯綱目表
 
-<img src="images/schema-diagram.png" width="600"/></br>
+<img src="image/schema-diagram.png" width="600"/></br>
 
 🙋‍♀️ 作者介紹
 
