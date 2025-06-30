@@ -50,10 +50,11 @@ pet-shop-management-system/
 db.properties 為私密設定，請勿上傳至 GitHub（已透過 .gitignore 排除）
 本專案為個人學習與練習用途，尚未進行安全與例外處理最佳化，請勿直接應用於正式商業環境
 
-📷 預覽畫面
-<img width="599" alt="截圖 2025-06-30 下午11 36 58" src="https://github.com/user-attachments/assets/1a72d00b-c35c-4edc-8581-b342124a0ca7" />
-<img width="701" alt="截圖 2025-06-30 下午11 14 29" src="https://github.com/user-attachments/assets/28226a37-899f-4cc6-864d-aa091b58bc40" />
-<img width="699" alt="截圖 2025-06-30 下午11 15 01" src="https://github.com/user-attachments/assets/93ab0df1-04e1-495d-b5f2-59a72a039422" />
+📷 預覽畫面</br>
+
+<img width="599" alt="截圖 2025-06-30 下午11 36 58" src="https://github.com/user-attachments/assets/1a72d00b-c35c-4edc-8581-b342124a0ca7" /></br>
+<img width="701" alt="截圖 2025-06-30 下午11 14 29" src="https://github.com/user-attachments/assets/28226a37-899f-4cc6-864d-aa091b58bc40" /></br>
+<img width="699" alt="截圖 2025-06-30 下午11 15 01" src="https://github.com/user-attachments/assets/93ab0df1-04e1-495d-b5f2-59a72a039422" /></br>
 
 🙋‍♀️ 作者介紹
 
