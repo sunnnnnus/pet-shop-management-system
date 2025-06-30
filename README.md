@@ -50,21 +50,21 @@ pet-shop-management-system/
 db.properties 為私密設定，請勿上傳至 GitHub（已透過 .gitignore 排除）
 本專案為個人學習與練習用途，尚未進行安全與例外處理最佳化，請勿直接應用於正式商業環境
 
-📷 預覽畫面</br>
+📷 預覽畫面
 
 <img width="600" alt="截圖 2025-06-30 下午11 36 58" src="https://github.com/user-attachments/assets/1a72d00b-c35c-4edc-8581-b342124a0ca7"/></br>
 <img width="600" alt="截圖 2025-06-30 下午11 14 29" src="https://github.com/user-attachments/assets/28226a37-899f-4cc6-864d-aa091b58bc40"/></br>
 <img width="600" alt="截圖 2025-06-30 下午11 15 01" src="https://github.com/user-attachments/assets/93ab0df1-04e1-495d-b5f2-59a72a039422"/></br>
 
 ## 📊 系統資料庫設計
+
 本系統共包含數個主要資料表，用以記錄商品、顧客、訂單與訂單明細，透過下方 ER Model 可快速理解資料表關聯。
 
-### 🧩 ER Model
-<img src="./image/ERModel.jpg" width="600"/></br>
+🧩 ER Model
+![ERModel](https://github.com/user-attachments/assets/fa2d75b4-e11c-482d-8f43-e7ab784f2fa2)
 
-### 🗂️ 關聯綱目表
-<img src="./image/schema-diagram.png" width="600"/></br>
-
+🗂️ 關聯綱目表
+![schema-diagram](https://github.com/user-attachments/assets/3b8abc90-3abc-45cf-a326-a4598e5a876a)
 
 🙋‍♀️ 作者介紹
 
