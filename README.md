@@ -60,11 +60,13 @@ db.properties 為私密設定，請勿上傳至 GitHub（已透過 .gitignore �
 
 本系統共包含數個主要資料表，用以記錄商品、顧客、訂單與訂單明細，透過下方 ER Model 可快速理解資料表關聯。
 
-🧩 ER Model
-![ERModel](https://github.com/user-attachments/assets/fa2d75b4-e11c-482d-8f43-e7ab784f2fa2)
+### 🧩 ER Model
 
-🗂️ 關聯綱目表
-![schema-diagram](https://github.com/user-attachments/assets/3b8abc90-3abc-45cf-a326-a4598e5a876a)
+<img src="images/ERModel.jpg" width="600"/></br>
+
+### 🗂️ 關聯綱目表
+
+<img src="images/schema-diagram.png" width="600"/></br>
 
 🙋‍♀️ 作者介紹
 
