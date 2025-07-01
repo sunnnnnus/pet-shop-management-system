@@ -1,6 +1,6 @@
 # 🐾 寵物用品管理系統（Pet Shop Management System）
 
-本專案為以 Java Swing 製作的桌面應用程式，結合 MySQL 資料庫，提供店家或管理員進行寵物用品之商品管理、訂單查詢與庫存監控等功能。專案以 GUI 介面操作，適合初學者參考完整的 CRUD + JDBC 整合應用。
+本專案為以 Java Swing 製作的桌面應用程式，結合 MySQL 資料庫，提供顧客或管理員進行寵物用品之商品管理及查詢、訂單查詢與庫存監控等功能。專案以 GUI 介面操作，適合初學者參考完整的 CRUD + JDBC 整合應用。
 
 ## 🔧 使用技術
 
@@ -41,7 +41,7 @@ pet-shop-management-system/
 4. 設定 `db.properties`：
 
    ```properties
-   db.url=jdbc:mysql://localhost:3306/petdb
+   db.url=jdbc:mysql://localhost:3306/DBProject
    db.user=root
    db.password=你的密碼
 執行 Main.java 即可開啟 GUI 系統介面
